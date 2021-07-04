@@ -1,0 +1,16 @@
+{
+  "name": "hen-stalker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@microsoft/signalr": "^5.0.5",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
